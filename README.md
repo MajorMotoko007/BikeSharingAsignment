@@ -1,5 +1,5 @@
 # BikeSharingAsignment
-Bike Sharing Assignment is an Upgrad assigment for multi linear regression using Ordinary Least Squared method and with RFE and manual Elimination of the variables.
+Bike Sharing Assignment is an Upgrad assigment for multi linear regression using Ordinary Least Squared method and with RFE and manual Elimination of the variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 ### Author
 Sourav Kumar Sinha
